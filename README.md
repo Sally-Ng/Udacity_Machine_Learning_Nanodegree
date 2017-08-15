@@ -10,7 +10,6 @@ The Nanodegree's website</a> </p>
 - Deep Learning
 
 ### Projects
-- [x] [Project 0: Titanic Survival Exploration]()
 - [x] [Project 1: Predicting Boston Housing Prices]()
 - [ ] Project 2: Finding Donors for CharityML
 - [ ] Project 3: Creating Customer Segments
