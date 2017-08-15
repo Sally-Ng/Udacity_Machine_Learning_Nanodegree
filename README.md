@@ -10,7 +10,7 @@ The Nanodegree's website</a> </p>
 - Deep Learning
 
 ### Projects
-- [x] [Project 1: Predicting Boston Housing Prices]()
+- [x] [Project 1: Predicting Boston Housing Prices](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices)
 - [ ] Project 2: Finding Donors for CharityML
 - [ ] Project 3: Creating Customer Segments
 - [ ] Project 4: Train a Smartcab to Drive
