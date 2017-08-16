@@ -34,7 +34,7 @@ Skills: Machine Learning, Data Exploration </br>
 Built Supervised Machine Learning model to estimate the best selling price of houses in Boston, Massachusetts. Distinguished the Decision Tree model preforms the best with a maximum depth of 4.   
 
 <p align="left">
-  <img src="clients.JPG" width="300"/>
+  <img src="clients.JPG" width="400"/>
 </p>
 
 [Project 2: Finding Donors for Charity](https://github.com/Sally-Ng/Udacity-Finding_Donors_for_Charity) </br>
