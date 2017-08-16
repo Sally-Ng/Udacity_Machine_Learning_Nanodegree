@@ -28,7 +28,7 @@ The Nanodegree's website</a> </p>
 </br>
 </br>
 
-# Predicting Boston Housing Prices
+[Project 1: Predicting Boston Housing Prices](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices)
 Language: Python (scikit-learn, pandas, NumPy) </br> 
 Skills: Machine Learning, Data Exploration </br>
 Built Supervised Machine Learning model to estimate the best selling price of houses in Boston, Massachusetts. Distinguished the Decision Tree model preforms the best with a maximum depth of 4.   
