@@ -11,7 +11,7 @@ The Nanodegree's website</a> </p>
 
 ### Projects
 - [x] [Project 1: Predicting Boston Housing Prices (Supervised Learning)](https://github.com/Sally-Ng/MLND-Predicting_Boston_Housing_Prices)
-- [ ] Project 2: Finding Donors for CharityML (Supervised Learning)
+- [x] [Project 2: Finding Donors for CharityML (Supervised Learning)](https://github.com/Sally-Ng/Udacity-Finding_Donors_for_Charity)
 - [ ] Project 3: Creating Customer Segments (Unsupervised Learning)
 - [ ] Project 4: Train a Smartcab to Drive (Reinforcement Learning)
 - [ ] Project 5: Dog Breed Classifier (Deep Learning)
