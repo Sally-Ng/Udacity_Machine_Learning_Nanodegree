@@ -45,3 +45,13 @@ Compared the accuracy of the SVM, Decision Tree and Naïve Bayes models on disti
 <p align="left">
   <img src="features_selection.JPG" width="400"/>
 </p>
+
+[Project 3: Creating Customer Segments](https://github.com/Sally-Ng/MLND-Creating_Customer_Segments) </br>
+Language: Python (scikit-learn, pandas, NumPy, matplotlib, seaborn) </br> 
+Skills: Machine Learning, Data Exploration, Data Visualization </br>
+Created a K-Means clustering model to segment customers based on their spending on varies products. Implemented feature scaling for data normalization and PCA for dimensionality reduction
+
+<p align="left">
+  <img src="clusters.JPG" width="400"/>
+</p>
+
